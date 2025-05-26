@@ -1,0 +1,16 @@
+/* Custom Styles */
+
+.bg-image {
+  background-image: url('https://cdn.pixabay.com/photo/2016/11/18/22/21/restaurant-1837150_640.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.bg-image .container {
+  position: relative;
+  z-index: ;
+}
